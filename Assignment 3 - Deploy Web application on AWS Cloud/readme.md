@@ -1,4 +1,4 @@
-# Title: Deploy Web application on AWS Cloud (or any cloud)(PHP/Python/Node js any application)
+# Deploy Web application on AWS Cloud (or any cloud)(PHP/Python/Node js any application)
 
 ## Theory:
              1) Cloud Computing Definition
