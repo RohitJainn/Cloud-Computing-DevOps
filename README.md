@@ -1,2 +1,2 @@
-# Cloud-Computing-DevOps
-Cloud Computing assignments 
+# CloudComputing&DevOps
+###Cloud Computing assignments 
