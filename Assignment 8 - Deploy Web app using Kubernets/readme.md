@@ -1,1 +1,1 @@
-# Title: Deploy a web application using Kubernetes
+# Deploy a web application using Kubernetes
