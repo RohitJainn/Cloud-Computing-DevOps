@@ -1,5 +1,5 @@
 # Assignment No 4
-## Title: Deploy Web application using S3 Bucket (PHP/Python/Node.js any application).
+## Deploy Web application using S3 Bucket (PHP/Python/Node.js any application).
 
 ## Theory:
              1) What is S3 service of AWS
